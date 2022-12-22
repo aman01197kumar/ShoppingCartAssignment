@@ -1,0 +1,27 @@
+.img_content{
+    width: 17rem;
+    height: 20rem;
+}
+.cards{
+    box-sizing: border-box; 
+    padding: 5px;
+    margin-left: 11px; 
+    width: 295px;
+    border: 1px solid black;
+    margin-top: 2rem;
+    /* background-color: rgb(221, 116, 116); */
+    border-radius: 12px;
+    margin-bottom: 2rem;
+    
+}
+.card_button{
+  width: 7rem;
+    display: block;
+    margin: auto;
+    height: 2rem;
+    background: #78e978;
+    border: none;}
+  .details{
+    text-align: center;
+    padding-bottom: 1rem;
+  }
